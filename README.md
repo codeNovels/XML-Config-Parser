@@ -6,5 +6,5 @@ on each server.
 
 ![Picture](https://github.com/codeNovels/Config-XML-Parser/blob/master/qaserverlist.png)
 
-![Picture](https://github.com/codeNovels/Config-XML-Parser/blob/master/novelsserverlist.PNG)
+![Picture](https://github.com/codeNovels/Config-XML-Parser/blob/master/novelsserverlist.PNG) 
 
